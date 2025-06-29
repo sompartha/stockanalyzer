@@ -1,24 +1,32 @@
-# 📈 Stock Analyzer (JavaFX)
-
-A simple and elegant JavaFX desktop application to fetch and visualize real-time stock prices using the Alpha Vantage API.
+Sure! Here's the full snippet with a proper heading you can directly paste into your GitHub README or description section:
 
 ---
 
-## 🔧 Features
+# 📈 Stock Analyzer – JavaFX + Alpha Vantage API
 
-- 🔍 **Live Stock Price Fetching** – Enter a stock symbol (e.g., `TCS.NS`, `INFY.NS`) to get its current market price.
-- 📊 **7-Day Line Chart** – Visualizes the stock’s closing price over the last 7 trading days.
-- 💬 **User-Friendly Interface** – Built with JavaFX for a modern, responsive UI.
+**Stock Analyzer** is a modern JavaFX desktop application that allows users to fetch and visualize real-time stock market data using the [Alpha Vantage API](https://www.alphavantage.co/).
 
----
+### ✨ Features
 
-## 🛠️ Tech Stack
+* 🔍 Search for real-time stock prices (e.g., `TCS.NS`, `INFY.NS`)
+* 📊 Visualize the last 7 trading days using a dynamic line chart
+* 🧰 Simple, beginner-friendly GUI built with JavaFX
+* 🧩 Integrates REST APIs, JSON parsing, and Java charting
 
-- **Java 17**
-- **JavaFX 17.0.9**
-- **Maven**
-- **Gson** for JSON parsing
-- **Alpha Vantage API** for financial data
+### 🛠 Tech Stack
+
+* Java 17
+* JavaFX 17
+* Maven
+* Gson (for JSON parsing)
+
+### 🎓 Ideal For
+
+* Learning JavaFX GUI development
+* Understanding how to integrate APIs in Java
+* Hands-on practice with Maven project structures
+
+
 
 ---
 
