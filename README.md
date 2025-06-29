@@ -1,4 +1,4 @@
-# 📈 Stock Analyzer – JavaFX + Alpha Vantage API
+# 📈 Stock Analyzer 
 
 **Stock Analyzer** is a modern JavaFX desktop application that allows users to fetch and visualize real-time stock market data using the [Alpha Vantage API](https://www.alphavantage.co/).
 
